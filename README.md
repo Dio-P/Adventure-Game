@@ -16,7 +16,7 @@ It has been the first project I ever mad with Python, and I have enjoyed it extr
 
 ### Instructions:
 
-To start playing download or clone this, got to your console and type
+To start playing download or clone this, go to your console and type
 
 ```
 python "Adventure Game 0.py"
