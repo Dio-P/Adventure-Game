@@ -14,5 +14,15 @@ It has been the first project I ever mad with Python, and I have enjoyed it extr
 
 1. Python
 
+### Instructions:
+
+To start playing download or clone this, got to your console and type
+
+```
+python "Adventure Game 0.py"
+```
+
+...but not if you are not ready to... Face the terror! :)
+
 
 #### It was made by [Dio Papadopoulos](https://dio-papa-portfolio-site.herokuapp.com/travellingWeatherApp) as part of Udacity's Intro to Programming course.
